@@ -1,4 +1,4 @@
-<h1>Oi, bem-vindo(a) ao meu perfil  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1>Oi, bem-vindo(a) ao meu perfil  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> [![GitHub Fabiola Costa]( https://img.shields.io/github/followers/FabiolaCosta?label=follow&style=social)](https://github.com/FabiolaCosta)</h1>
 <div align="center">
   <a href="https://github.com/fabiolacosta">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/?username=fabiolacosta&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
